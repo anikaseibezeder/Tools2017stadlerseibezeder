@@ -134,7 +134,10 @@ public class MainActivity extends FragmentActivity {
 	
 	public void thisisANewMethod() {
 		//Insert from 1
-		if (1==true)
-			;
+		while(true)
+		{
+			
+		}
+
 	}
 }
