@@ -84,6 +84,11 @@ public class MainActivity extends FragmentActivity {
                 return true;
         }
         return false;
+		
+		//Additional Code
+		if(1==true){
+			;
+		}
     }
  
     /**
