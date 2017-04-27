@@ -132,5 +132,10 @@ public class MainActivity extends FragmentActivity {
         msgFilter.setNext(mLogFragment.getLogView());
     }
 	
-	public void thisisANewMethod() {}
+	public void thisisANewMethod() {
+		while(true)
+		{
+			
+		}
+	}
 }
