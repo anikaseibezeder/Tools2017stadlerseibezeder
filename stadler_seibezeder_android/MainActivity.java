@@ -63,6 +63,9 @@ public class MainActivity extends FragmentActivity {
  
         // Initialize the logging framework.
         initializeLogging();
+		
+		//Initialise bug
+		int bug = i;
     }
  
     @Override
