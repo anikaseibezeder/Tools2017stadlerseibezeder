@@ -140,20 +140,5 @@ public class MainActivity extends FragmentActivity {
         msgFilter.setNext(mLogFragment.getLogView());
     }
 	
-	public void thisisANewMethod() {
-		//Insert from 1
-		while(true)
-		{
-			
-		}
-		
-		//Bug is fixed
-		if (1==true){
-			if (11==true)
-				;
-			else
-				;
-		}
 
-	}
 }
