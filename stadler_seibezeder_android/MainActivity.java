@@ -89,6 +89,11 @@ public class MainActivity extends FragmentActivity {
 		if(1==true){
 			;
 		}
+		
+		while(true)
+		{
+			
+		}
     }
  
     /**
