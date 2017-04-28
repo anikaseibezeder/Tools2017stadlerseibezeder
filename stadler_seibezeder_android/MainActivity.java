@@ -141,7 +141,10 @@ public class MainActivity extends FragmentActivity {
 		
 		//Bug is fixed
 		if (1==true){
-			;
+			if (11==true)
+				;
+			else
+				;
 		}
 
 	}
